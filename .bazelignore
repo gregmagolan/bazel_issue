@@ -1,0 +1,2 @@
+/bazel-*
+/nested_workspace/bazel-*

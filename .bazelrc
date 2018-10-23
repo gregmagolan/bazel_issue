@@ -1,0 +1,3 @@
+# Turn off legacy external runfiles
+run --nolegacy_external_runfiles
+test --nolegacy_external_runfiles
